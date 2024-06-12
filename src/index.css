@@ -1,0 +1,6 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-image: linear-gradient(rgba(255, 166, 0, 0.5), rgba(245, 233, 10, 0.5)), url('https://cdn.pixabay.com/photo/2020/09/06/07/37/car-5548242_1280.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
